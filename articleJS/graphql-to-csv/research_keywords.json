@@ -1,0 +1,52 @@
+[
+  {
+    "count": 1,
+    "name": "-linolenic acid",
+    "slug": "linolenic-acid"
+  },
+  {
+    "count": 1,
+    "name": "-sitosterol",
+    "slug": "sitosterol"
+  },
+  {
+    "count": 731,
+    "name": "∆9-tetrahydrocannabinol (THC)",
+    "slug": "∆9-tetrahydrocannabinol-thc"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),∆9-tetrahydrocannabinolic acid (THCA)",
+    "slug": "∆9-tetrahydrocannabinol-thc∆9-tetrahydrocannabinolic-acid-thca"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),∆9-tetrahydrocannabinolic acid (THCA),Cannabidiol (CBD),Cannabidiolic acid (CBDA)",
+    "slug": "∆9-tetrahydrocannabinol-thc∆9-tetrahydrocannabinolic-acid-thcacannabidiol-cbdcannabidiolic-acid-cbda"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),∆9-tetrahydrocannabinolic acid (THCA),drug test,Hemp oil",
+    "slug": "∆9-tetrahydrocannabinol-thc∆9-tetrahydrocannabinolic-acid-thcadrug-testhemp-oil"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),∆9-tetrahydrocannabivarin (THCV),Anandamide (AEA),CB1 receptor antagonist/s,CB2 receptor antagonist/s,mouse vas deferens,WIN55212-2",
+    "slug": "∆9-tetrahydrocannabinol-thc∆9-tetrahydrocannabivarin-thcvanandamide-aeacb1-receptor-antagonist-scb2-receptor-antagonist-smouse-vas-deferenswin55212-2"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),∆9-tetrahydrocannabivarin (THCV),Cannabidiol (CBD),Cannabinoid/s,Cannabis,Endocannabinoid/s,individual sensitivity to cannabis",
+    "slug": "∆9-tetrahydrocannabinol-thc∆9-tetrahydrocannabivarin-thcvcannabidiol-cbdcannabinoid-scannabisendocannabinoid-sindividual-sensitivity-to-cannabis"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),∆9-tetrahydrocannabivarin (THCV),Cannabidiol (CBD),Cannabis,Intravenous",
+    "slug": "∆9-tetrahydrocannabinol-thc∆9-tetrahydrocannabivarin-thcvcannabidiol-cbdcannabisintravenous"
+  },
+  {
+    "count": null,
+    "name": "∆9-tetrahydrocannabinol (THC),2-Arachidonoylglycerol (2-AG)",
+    "slug": "∆9-tetrahydrocannabinol-thc2-arachidonoylglycerol-2-ag"
+  }
+]

@@ -1,0 +1,31 @@
+node "C:\Users\hugos\OneDrive - Realm of Caring Foundation\Desktop\articleJS\graphql-to-csv\index.js"
+
+node "C:\Users\hugos\OneDrive - Realm of Caring Foundation\Desktop\articleJS\graphql-to-csv\tokenize.js"
+
+@echo off
+setlocal
+
+set "uriSlack=https://hooks.slack.com/services/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"
+set "body={
+    \"pretext\": \"Article_JS Ran, should have updated Articles Datafile \",
+    \"text\": \"Should work, check if it did not. \",
+    \"color\": \"#142954\"
+}"
+
+rem Write JSON body to a temporary file
+set "tempFile=%TEMP%\slack_payload.json"
+echo %body% > "%tempFile%"
+
+rem Send the request to Slack
+curl -X POST -H "Content-Type: application/json" -d @%tempFile% %uriSlack%
+
+rem Check if the curl command was successful
+if %errorlevel% neq 0 (
+    echo %date% %time%: Update to Slack went wrong...
+)
+
+rem Clean up temporary file
+del "%tempFile%"
+
+endlocal
+

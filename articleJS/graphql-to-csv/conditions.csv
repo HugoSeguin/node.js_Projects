@@ -1,0 +1,69 @@
+"id","name","count","parentId","parent.node.id","isTermNode"
+"dGVybTo1NTA0","Lyme Disease",6,,,true
+"dGVybTo1NTU4","Memory",31,,,true
+"dGVybTo1NjEy","Menopause",2,,,true
+"dGVybTo1NjM5","Menstrual Cycle",1,,,true
+"dGVybTo1NTg1","Mental Disorders",53,,,true
+"dGVybTo1NDgx","Mental Illness",,,,true
+"dGVybTo1NTk5","Metabolism",17,,,true
+"dGVybTo1NDg3","Migraine",11,,,true
+"dGVybTo1NTI0","Mitochondria",3,,,true
+"dGVybTo1NTAw","MTHFR Gene Mutation",6,,,true
+"dGVybTo1NDc1","Multiple Sclerosis",55,,,true
+"dGVybTo1NTc2","Multiple Sclerosis>Demyelination",1,,,true
+"dGVybTo1NjE4","Muscular",5,,,true
+"dGVybTo1NTMx","Nausea",21,,,true
+"dGVybTo1NTM1","Nervous System",35,,,true
+"dGVybTo1NDg4","Neuro-protective/Neuro-generative",77,,,true
+"dGVybTo1NjA1","Neuroinflammation",4,,,true
+"dGVybTo1NDk2","Neuropathy",41,,,true
+"dGVybTo1NjMw","Non-Epileptic Seizures",1,,,true
+"dGVybTo1NTU2","Non-Hodgkin's Lymphoma",1,,,true
+"dGVybTo1NDk3","Nutrition",8,,,true
+"dGVybTo1NDk4","Obesity",20,,,true
+"dGVybTo1NTI4","Obsessive Compulsive Disorder (OCD)",10,,,true
+"dGVybTo1NjA2","Ocular Health",8,,,true
+"dGVybTo1NTM4","Optic Function",,,,true
+"dGVybTo1NTk4","Oral Health",17,,,true
+"dGVybTo1NTU5","Organ Transplants",2,,,true
+"dGVybTo1NTMz","Osteoarthritis",3,,,true
+"dGVybTo1NTgx","Osteoporosis",1,,,true
+"dGVybTo1NDc3","Pain",244,,,true
+"dGVybTo1NTY3","Palliative Care",14,,,true
+"dGVybTo1NTAy","Pancreatitis",5,,,true
+"dGVybTo1NDg5","Parkinson's Disease",51,,,true
+"dGVybTo1NTU3","Pets",28,,,true
+"dGVybTo1NjE1","Pharmacogenetics",1,,,true
+"dGVybTo1NTQ5","Pharmacokinetics",28,,,true
+"dGVybTo1NTk1","Pharmacology",8,,,true
+"dGVybTo1NTEw","Post Traumatic Stress Disorder (PTSD)",47,,,true
+"dGVybTo1NjA0","Post-Concussion Syndrome",1,,,true
+"dGVybTo1NjE3","Postoperative Pain",3,,,true
+"dGVybTo1NDgy","Potential of whole plant vs. single compound model",6,,,true
+"dGVybTo1NDcx","Pregnancy",98,,,true
+"dGVybTo1NTM3","Prostate Cancer",8,,,true
+"dGVybTo1NTQ2","Psoriasis",1,,,true
+"dGVybTo1NjM4","Psychosis",12,,,true
+"dGVybTo1NTA3","Pulmonary Function",19,,,true
+"dGVybTo1NTcx","Reproductive System",29,,,true
+"dGVybTo1NTc4","Respiratory Disease",7,,,true
+"dGVybTo1NTc3","Rett Syndrome",1,,,true
+"dGVybTo1NTI3","Safety",144,,,true
+"dGVybTo1NDcw","Schizophrenia",64,,,true
+"dGVybTo1NTcz","Sexual Function",4,,,true
+"dGVybTo1NTUw","Sickle-cell Disease",3,,,true
+"dGVybTo1NDg1","Skeletal System",17,,,true
+"dGVybTo1NTE5","Skin",59,,,true
+"dGVybTo1NDY3","Sleep",65,,,true
+"dGVybTo1NDc2","Spasticity",19,,,true
+"dGVybTo1NTI5","Spinal cord injury",9,,,true
+"dGVybTo1NDg0","Sports",31,,,true
+"dGVybTo1NTc1","Stress",18,,,true
+"dGVybTo1NTQ1","Stroke",7,,,true
+"dGVybTo1NTUx","Tinnitus",1,,,true
+"dGVybTo1NTQz","Tourette's syndrome",11,,,true
+"dGVybTo1NDkx","Traumatic Brain Injury (TBI)",17,,,true
+"dGVybTo1NjAw","Tuberous sclerosis",3,,,true
+"dGVybTo1NTgy","Ulcerative Colitis",1,,,true
+"dGVybTo1NjI1","Wellness",1,,,true
+"dGVybTo1NjMy","Wound Healing",6,,,true

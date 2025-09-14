@@ -1,0 +1,73 @@
+"id","name","count","parentId","parent.node.id","isTermNode"
+"dGVybTo1MzIy","Veteran",,"dGVybTo1MzIx","dGVybTo1MzIx",true
+"dGVybToxNzM5","Veteran",1,,,true
+"dGVybTo1MTgz","veterinary use",,"dGVybTo1MTgy","dGVybTo1MTgy",true
+"dGVybToxNzAx","veterinary use",1,,,true
+"dGVybTozMjA4","viral G protein–coupled receptor",,"dGVybTozMjA3","dGVybTozMjA3",true
+"dGVybTo1MTM=","viral G protein–coupled receptor",1,,,true
+"dGVybToxNjc2","Viral infections",1,,,true
+"dGVybToyNTUz","Viral infections,Virus",,,,true
+"dGVybTo1MTI4","Virus",,"dGVybToxNjc2","dGVybToxNjc2",true
+"dGVybToxNjc3","Virus",1,,,true
+"dGVybTozMzgx","visceral sensation",,"dGVybTozMzgw","dGVybTozMzgw",true
+"dGVybTo2Mjc=","visceral sensation",1,,,true
+"dGVybTo5NTY=","Visual/drug effects",,,,true
+"dGVybTo0Njgw","vomiting",,"dGVybTo0Njc5","dGVybTo0Njc5",true
+"dGVybTo0Mjk4","vomiting",,"dGVybTo0Mjk3","dGVybTo0Mjk3",true
+"dGVybTozMzE3","vomiting",,"dGVybTozMzE2","dGVybTozMzE2",true
+"dGVybTo1OTE=","vomiting",3,,,true
+"dGVybTo0OTg1","wakefulness",,"dGVybTo0OTg0","dGVybTo0OTg0",true
+"dGVybToyODQ1","wakefulness",,"dGVybToyODQ0","dGVybToyODQ0",true
+"dGVybToyMDI=","wakefulness",2,,,true
+"dGVybTozNTI5","wasting disease",,"dGVybTozNTI4","dGVybTozNTI4",true
+"dGVybTo3MjU=","wasting disease",1,,,true
+"dGVybToxNzc4","weight loss",1,,,true
+"dGVybTo0MjU4","well diffusion method",,"dGVybTo0MjU3","dGVybTo0MjU3",true
+"dGVybToxMjE0","well diffusion method",1,,,true
+"dGVybTo0ODQw","white matter areas",,"dGVybTo0ODM5","dGVybTo0ODM5",true
+"dGVybToxNTIw","white matter areas",1,,,true
+"dGVybToyOTY3","Whole Plant",,"dGVybToyOTY2","dGVybToyOTY2",true
+"dGVybTozMDc=","Whole Plant",1,,,true
+"dGVybTo0MDI1","willardiine",,"dGVybTo0MDI0","dGVybTo0MDI0",true
+"dGVybToxMDM4","willardiine",1,,,true
+"dGVybTo5MDg=","WIN 55",,,,true
+"dGVybTo1NjQ4","WIN 55-212-22",1,,,true
+"dGVybToxMTE4","WIN55",,,,true
+"dGVybTo1NDMx","WIN55212-2",,"dGVybTo1NDMw","dGVybTo1NDMw",true
+"dGVybTo1MDE3","WIN55212-2",,"dGVybTo1MDE2","dGVybTo1MDE2",true
+"dGVybTo0ODUz","WIN55212-2",,"dGVybTo0ODUy","dGVybTo0ODUy",true
+"dGVybTo0ODQx","WIN55212-2",,"dGVybTo0ODQw","dGVybTo0ODQw",true
+"dGVybTo0ODMx","WIN55212-2",,"dGVybTo0ODMw","dGVybTo0ODMw",true
+"dGVybTo0NTkz","WIN55212-2",,"dGVybTo0NTky","dGVybTo0NTky",true
+"dGVybTo0MTM2","WIN55212-2",,"dGVybTo0MTM1","dGVybTo0MTM1",true
+"dGVybTozODU3","WIN55212-2",,"dGVybTozODU2","dGVybTozODU2",true
+"dGVybTozNjcz","WIN55212-2",,"dGVybTozNjcy","dGVybTozNjcy",true
+"dGVybTozNDgw","WIN55212-2",,"dGVybTozNDc5","dGVybTozNDc5",true
+"dGVybTo4MDM=","WIN55212-2",12,,,true
+"dGVybTo0MDk0","Wistar",,"dGVybTo0MDkz","dGVybTo0MDkz",true
+"dGVybToxMDg4","Wistar",1,,,true
+"dGVybTo1NDU5","Wistar rat",,"dGVybTo1NDU4","dGVybTo1NDU4",true
+"dGVybToxODA5","Wistar rat",1,,,true
+"dGVybTo1MDYw","withdrawal",,"dGVybTo1MDU5","dGVybTo1MDU5",true
+"dGVybToxNjMy","withdrawal",1,,,true
+"dGVybTozODQy","working memory",,"dGVybTozODQx","dGVybTozODQx",true
+"dGVybTo4OTc=","working memory",1,,,true
+"dGVybTo0MTIw","xenograft",,"dGVybTo0MTE5","dGVybTo0MTE5",true
+"dGVybToxMTA1","xenograft",1,,,true
+"dGVybTozNDM4","Xenopus laevis (Anura)",,"dGVybTozNDM3","dGVybTozNDM3",true
+"dGVybTo2NzQ=","Xenopus laevis (Anura)",1,,,true
+"dGVybTo5NTc=","Young Adult",1,,,true
+"dGVybTozODY=","Zinc transporters",1,,,true
+"dGVybTo0MjU5","zone of inhibition",,"dGVybTo0MjU4","dGVybTo0MjU4",true
+"dGVybToxMjE1","zone of inhibition",1,,,true
+"dGVybTozNTkz","β-amyloid",,"dGVybTozNTky","dGVybTozNTky",true
+"dGVybTo3NTk=","β-amyloid",1,,,true
+"dGVybTo1MDky","β-Caryophyllene",,"dGVybTo1MDkx","dGVybTo1MDkx",true
+"dGVybToxNjU5","β-Caryophyllene",1,,,true
+"dGVybTozMDE=","Δ 8 -Tetrahydrocannabinol",,,,true
+"dGVybTozMDI=","Δ 9 -Tetrahydrocannabinol",,,,true
+"dGVybTo1MDk2","δ-Ctenitoxin-Pn1a",,"dGVybTo1MDk1","dGVybTo1MDk1",true
+"dGVybToxNjY1","δ-Ctenitoxin-Pn1a",1,,,true
+"dGVybToxODM3","Δ8-Tetrahydrocannabinol",1,,,true
+"dGVybToxNTU3","Δ9- tetrahydrocannabinol (THC)",,,,true
+"dGVybToxMDI=","Δ9-tetrahydrocannabinol",,,,true

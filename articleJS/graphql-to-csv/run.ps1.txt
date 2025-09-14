@@ -1,0 +1,12 @@
+# Define the path to the Node.js executable
+$nodePath = "C:\Program Files\nodejs\node.exe"
+
+# Define the path to the JavaScript file
+$scriptPath = "C:\Users\hugos\OneDrive - Realm of Caring Foundation\Desktop\articleJS\graphql-to-csv\index.js"
+
+# Run the JavaScript file using Node.js
+& $nodePath $scriptPath
+
+
+
+

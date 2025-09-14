@@ -1,0 +1,52 @@
+[
+  {
+    "count": 1,
+    "name": "Acute Respiratory Distress Syndrome (ARDS)",
+    "slug": "acute-respiratory-distress-syndrome-ards"
+  },
+  {
+    "count": 52,
+    "name": "Addiction",
+    "slug": "addiction"
+  },
+  {
+    "count": 4,
+    "name": "Aging",
+    "slug": "aging"
+  },
+  {
+    "count": 1,
+    "name": "Allergies",
+    "slug": "allergies"
+  },
+  {
+    "count": 52,
+    "name": "Alzheimer's Dementia",
+    "slug": "alzheimers-dementia"
+  },
+  {
+    "count": 4,
+    "name": "Amyotrophic Lateral Sclerosis (ALS) (Lou Gehrig's)",
+    "slug": "amyotrophic-lateral-sclerosis-als-lou-gehrigs"
+  },
+  {
+    "count": 3,
+    "name": "Anorexia Nervosa",
+    "slug": "anorexia-nervosa"
+  },
+  {
+    "count": 15,
+    "name": "Antibacterial",
+    "slug": "antibacterial"
+  },
+  {
+    "count": 4,
+    "name": "Antifungal",
+    "slug": "antifungal"
+  },
+  {
+    "count": 3,
+    "name": "Antimicrobial",
+    "slug": "antimicrobial"
+  }
+]
